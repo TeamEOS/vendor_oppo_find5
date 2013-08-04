@@ -51,6 +51,7 @@ PRODUCT_COPY_FILES += \
 	vendor/oppo/find5/proprietary/lib/libchromatix_imx135_preview.so:system/lib/libchromatix_imx135_preview.so \
 	vendor/oppo/find5/proprietary/lib/libchromatix_imx135_video_hd.so:system/lib/libchromatix_imx135_video_hd.so \
 	vendor/oppo/find5/proprietary/lib/libchromatix_imx135_zsl.so:system/lib/libchromatix_imx135_zsl.so \
+	vendor/oppo/find5/proprietary/lib/libchromatix_imx135_video_hdr.so:system/lib/libchromatix_imx135_video_hdr.so
 	vendor/oppo/find5/proprietary/lib/libchromatix_s5k6a3yx_default_video.so:system/lib/libchromatix_s5k6a3yx_default_video.so \
 	vendor/oppo/find5/proprietary/lib/libchromatix_s5k6a3yx_preview.so:system/lib/libchromatix_s5k6a3yx_preview.so \
 	vendor/oppo/find5/proprietary/lib/libchromatix_s5k6a3yx_video_hd.so:system/lib/libchromatix_s5k6a3yx_video_hd.so \

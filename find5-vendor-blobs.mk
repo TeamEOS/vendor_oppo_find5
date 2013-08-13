@@ -23,7 +23,6 @@ PRODUCT_COPY_FILES += \
 	vendor/oppo/find5/proprietary/lib/libllvm-arm.so:system/lib/libllvm-arm.so \
 	vendor/oppo/find5/proprietary/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
 	vendor/oppo/find5/proprietary/lib/egl/libEGL_adreno200.so:system/lib/egl/libEGL_adreno200.so \
-	vendor/oppo/find5/proprietary/lib/egl/libplayback_adreno200.so:system/lib/egl/libplayback_adreno200.so \
 	vendor/oppo/find5/proprietary/lib/egl/libGLESv1_CM_adreno200.so:system/lib/egl/libGLESv1_CM_adreno200.so \
 	vendor/oppo/find5/proprietary/lib/egl/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adreno200.so \
 	vendor/oppo/find5/proprietary/lib/egl/eglsubAndroid.so:system/lib/egl/eglsubAndroid.so \

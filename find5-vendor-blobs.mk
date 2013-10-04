@@ -134,10 +134,22 @@ PRODUCT_COPY_FILES += \
 	vendor/oppo/find5/proprietary/etc/firmware/a225_pfp.fw:system/etc/firmware/a225_pfp.fw \
 	vendor/oppo/find5/proprietary/etc/firmware/leia_pm4_470.fw:system/etc/firmware/leia_pm4_470.fw \
 	vendor/oppo/find5/proprietary/etc/firmware/leia_pfp_470.fw:system/etc/firmware/leia_pfp_470.fw \
+	vendor/oppo/find5/proprietary/etc/firmware/yamato_pm4.fw:system/etc/firmware/yamato_pm4.fw \
+	vendor/oppo/find5/proprietary/etc/firmware/yamato_pfp.fw:system/etc/firmware/yamato_pfp.fw \
 	vendor/oppo/find5/proprietary/etc/firmware/a225_pm4.fw:system/etc/firmware/a225_pm4.fw \
 	vendor/oppo/find5/proprietary/etc/firmware/a300_pfp.fw:system/etc/firmware/a300_pfp.fw \
-	vendor/oppo/find5/proprietary/etc/firmware/yamato_pfp.fw:system/etc/firmware/yamato_pfp.fw \
-	vendor/oppo/find5/proprietary/etc/firmware/yamato_pm4.fw:system/etc/firmware/yamato_pm4.fw \
+	vendor/oppo/find5/proprietary/etc/firmware/tzapps.b00:system/etc/firmware/tzapps.b00 \
+	vendor/oppo/find5/proprietary/etc/firmware/tzapps.b01:system/etc/firmware/tzapps.b01 \
+	vendor/oppo/find5/proprietary/etc/firmware/tzapps.b02:system/etc/firmware/tzapps.b02 \
+	vendor/oppo/find5/proprietary/etc/firmware/tzapps.b03:system/etc/firmware/tzapps.b03 \
+	vendor/oppo/find5/proprietary/etc/firmware/tzapps.mdt:system/etc/firmware/tzapps.mdt \
+	vendor/oppo/find5/proprietary/etc/firmware/q6.mdt:system/etc/firmware/q6.mdt \
+	vendor/oppo/find5/proprietary/etc/firmware/q6.b00:system/etc/firmware/q6.b00 \
+	vendor/oppo/find5/proprietary/etc/firmware/q6.b01:system/etc/firmware/q6.b01 \
+	vendor/oppo/find5/proprietary/etc/firmware/q6.b03:system/etc/firmware/q6.b03 \
+	vendor/oppo/find5/proprietary/etc/firmware/q6.b04:system/etc/firmware/q6.b04 \
+	vendor/oppo/find5/proprietary/etc/firmware/q6.b05:system/etc/firmware/q6.b05 \
+	vendor/oppo/find5/proprietary/etc/firmware/q6.b06:system/etc/firmware/q6.b06 \
 	vendor/oppo/find5/proprietary/etc/firmware/vidc_1080p.fw:system/etc/firmware/vidc_1080p.fw \
 	vendor/oppo/find5/proprietary/etc/firmware/vidc.b00:system/etc/firmware/vidc.b00 \
 	vendor/oppo/find5/proprietary/etc/firmware/vidc.b01:system/etc/firmware/vidc.b01 \

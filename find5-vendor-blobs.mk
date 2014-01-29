@@ -99,6 +99,7 @@ PRODUCT_COPY_FILES += \
 	vendor/oppo/find5/proprietary/lib/libmmcamera_3a_legacy.so:system/lib/libmmcamera_3a_legacy.so \
 	vendor/oppo/find5/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
 	vendor/oppo/find5/proprietary/lib/libmmcamera_plugin.so:system/lib/libmmcamera_plugin.so \
+	vendor/oppo/find5/proprietary/lib/libqc-opt.so:system/lib/libqc-opt.so \
 	vendor/oppo/find5/proprietary/lib/libadsprpc.so:system/lib/libadsprpc.so \
 	vendor/oppo/find5/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
 	vendor/oppo/find5/proprietary/lib/libimage-jpeg-dec-omx-comp.so:system/lib/libimage-jpeg-dec-omx-comp.so \
